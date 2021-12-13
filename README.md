@@ -1,0 +1,1 @@
+User will apply city name in text box, then click the search icon to submit a request for temputer and forcast for requested city. User will als see current date, in addition to the 5 day forecast. Temp, humidity, wind and UV index will be displayed. 
